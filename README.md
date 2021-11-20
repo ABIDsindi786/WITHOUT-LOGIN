@@ -17,7 +17,7 @@ pkg install git
 
 # git clone https://github.com/ABIDsindi786/WITHOUT-LOGIN.git
 
-cd ABIDsindi786
+cd WITHOUT-LOGIN
 
 python2 ABID.pyc
 
