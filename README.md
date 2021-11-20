@@ -21,3 +21,7 @@ cd WITHOUT-LOGIN
 
 python2 ABID.pyc
 
+tol username
+username abid
+pasword. sindhi
+
